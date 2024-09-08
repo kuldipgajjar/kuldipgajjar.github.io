@@ -1,3 +1,1 @@
-https://kuldipgajjar.me/
-
-Above Website Repo.
+https://kuldipgajjar.github.io/
